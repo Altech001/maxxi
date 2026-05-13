@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "id": "5797",
+  "filename": "Firewall-Security.pptx",
+  "original_filename": "Firewall Security.pptx",
+  "file_path": "telegram/documents/5797/Firewall-Security.pptx",
+  "message_id": 5797,
+  "folder_id": null,
+  "size_bytes": 10598601,
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "category": "docs",
+  "cdn_folder": "documents",
+  "extension": "pptx",
+  "telegram": {
+    "message_id": 5797,
+    "folder_id": null,
+    "storage": "telegram",
+    "file_path": "telegram/documents/5797/Firewall-Security.pptx",
+    "filename": "Firewall Security.pptx"
+  },
+  "github": {
+    "storage": "metadata",
+    "repo": "Altech001/maxxi",
+    "branch": "main",
+    "metadata_file": "metadata/documents/5797.json"
+  },
+  "metadata": {
+    "filename": "Firewall-Security.pptx",
+    "extension": "pptx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "category": "docs",
+    "size_bytes": 10598601,
+    "size_human": "10.1 MB",
+    "uploaded_at": "2026-05-13T20:20:01.045793+00:00"
+  },
+  "uploaded_at": "2026-05-13T20:20:01.045793+00:00",
+  "cdn_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/documents/5797/Firewall-Security.pptx",
+  "rawUrl": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/documents/5797/Firewall-Security.pptx",
+  "raw_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/documents/5797/Firewall-Security.pptx",
+  "download_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/documents/5797/Firewall-Security.pptx",
+  "inline_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/documents/5797/Firewall-Security.pptx",
+  "metadata_url": "http://127.0.0.1:8000/api/v1/files/5797/metadata",
+  "preview_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/documents/5797/Firewall-Security.pptx",
+  "api_download_url": "http://127.0.0.1:8000/api/v1/files/5797/download",
+  "api_inline_url": "http://127.0.0.1:8000/api/v1/files/5797/download?disposition=inline",
+  "api_attachment_url": "http://127.0.0.1:8000/api/v1/files/5797/download?disposition=attachment",
+  "api_preview_url": "http://127.0.0.1:8000/api/v1/files/5797/preview",
+  "cdn_path": "/gh/Altech001/maxxi@main/telegram/documents/5797/Firewall-Security.pptx"
+}
