@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "id": "3986153916_5",
+  "filename": "Gamification_Desgin.docx",
+  "original_filename": "Gamification_Desgin.docx",
+  "file_path": "telegram/documents/5/Gamification_Desgin.docx",
+  "message_id": 5,
+  "folder_id": 3986153916,
+  "size_bytes": 27704,
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "category": "docs",
+  "cdn_folder": "documents",
+  "extension": "docx",
+  "telegram": {
+    "message_id": 5,
+    "folder_id": 3986153916,
+    "storage": "telegram",
+    "folder": "documents",
+    "file_path": "telegram/documents/5/Gamification_Desgin.docx",
+    "filename": "Gamification_Desgin.docx"
+  },
+  "github": {
+    "storage": "metadata",
+    "repo": "Altech001/maxxi",
+    "branch": "main",
+    "metadata_file": "metadata/documents/3986153916_5.json"
+  },
+  "metadata": {
+    "filename": "Gamification_Desgin.docx",
+    "extension": "docx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "category": "docs",
+    "size_bytes": 27704,
+    "size_human": "27.1 KB",
+    "uploaded_at": "2026-05-13T23:54:15.718695+00:00"
+  },
+  "uploaded_at": "2026-05-13T23:54:15.718695+00:00",
+  "cdn_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/documents/3986153916_5/Gamification_Desgin.docx",
+  "rawUrl": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/documents/3986153916_5/Gamification_Desgin.docx",
+  "raw_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/documents/3986153916_5/Gamification_Desgin.docx",
+  "download_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/documents/3986153916_5/Gamification_Desgin.docx",
+  "inline_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/documents/3986153916_5/Gamification_Desgin.docx",
+  "metadata_url": "https://mxcdn.vercel.app/api/v1/files/3986153916_5/metadata",
+  "preview_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/documents/3986153916_5/Gamification_Desgin.docx",
+  "api_download_url": "https://mxcdn.vercel.app/api/v1/files/3986153916_5/download",
+  "api_inline_url": "https://mxcdn.vercel.app/api/v1/files/3986153916_5/download?disposition=inline",
+  "api_attachment_url": "https://mxcdn.vercel.app/api/v1/files/3986153916_5/download?disposition=attachment",
+  "api_preview_url": "https://mxcdn.vercel.app/api/v1/files/3986153916_5/preview",
+  "cdn_path": "/gh/Altech001/maxxi@main/telegram/documents/3986153916_5/Gamification_Desgin.docx"
+}
