@@ -83,6 +83,54 @@
       "api_attachment_url": "http://127.0.0.1:8000/api/v1/files/5790/download?disposition=attachment",
       "api_preview_url": "http://127.0.0.1:8000/api/v1/files/5790/preview",
       "cdn_path": "/api/v1/cdn/5790/7l58_chat-notification.svg"
+    },
+    {
+      "success": true,
+      "id": "5791",
+      "filename": "features-alt.svg",
+      "original_filename": "features-alt.svg",
+      "file_path": "telegram/image/5791/features-alt.svg",
+      "message_id": 5791,
+      "folder_id": null,
+      "size_bytes": 1155,
+      "mime_type": "image/svg+xml",
+      "category": "image",
+      "extension": "svg",
+      "telegram": {
+        "message_id": 5791,
+        "folder_id": null,
+        "storage": "telegram",
+        "file_path": "telegram/image/5791/features-alt.svg",
+        "filename": "features-alt.svg"
+      },
+      "github": {
+        "storage": "metadata",
+        "repo": "Altech001/maxxi",
+        "branch": "main",
+        "metadata_file": "metadata.json"
+      },
+      "metadata": {
+        "filename": "features-alt.svg",
+        "extension": "svg",
+        "mime_type": "image/svg+xml",
+        "category": "image",
+        "size_bytes": 1155,
+        "size_human": "1.1 KB",
+        "uploaded_at": "2026-05-13T18:59:22.567223+00:00"
+      },
+      "uploaded_at": "2026-05-13T18:59:22.567223+00:00",
+      "cdn_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/5791/features-alt.svg",
+      "rawUrl": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/5791/features-alt.svg",
+      "raw_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/5791/features-alt.svg",
+      "download_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/5791/features-alt.svg",
+      "inline_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/5791/features-alt.svg",
+      "metadata_url": "http://127.0.0.1:8000/api/v1/files/5791/metadata",
+      "preview_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/5791/features-alt.svg",
+      "api_download_url": "http://127.0.0.1:8000/api/v1/files/5791/download",
+      "api_inline_url": "http://127.0.0.1:8000/api/v1/files/5791/download?disposition=inline",
+      "api_attachment_url": "http://127.0.0.1:8000/api/v1/files/5791/download?disposition=attachment",
+      "api_preview_url": "http://127.0.0.1:8000/api/v1/files/5791/preview",
+      "cdn_path": "/gh/Altech001/maxxi@main/telegram/5791/features-alt.svg"
     }
   ]
 }
