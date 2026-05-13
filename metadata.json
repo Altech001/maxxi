@@ -131,6 +131,59 @@
       "api_attachment_url": "http://127.0.0.1:8000/api/v1/files/5791/download?disposition=attachment",
       "api_preview_url": "http://127.0.0.1:8000/api/v1/files/5791/preview",
       "cdn_path": "/gh/Altech001/maxxi@main/telegram/5791/features-alt.svg"
+    },
+    {
+      "success": true,
+      "id": "5792",
+      "filename": "box.png",
+      "original_filename": "box.png",
+      "file_path": "telegram/images/5792/box.png",
+      "message_id": 5792,
+      "folder_id": null,
+      "size_bytes": 17095,
+      "mime_type": "image/png",
+      "category": "image",
+      "cdn_folder": "images",
+      "extension": "png",
+      "telegram": {
+        "message_id": 5792,
+        "folder_id": null,
+        "storage": "telegram",
+        "file_path": "telegram/images/5792/box.png",
+        "filename": "box.png"
+      },
+      "github": {
+        "storage": "metadata",
+        "repo": "Altech001/maxxi",
+        "branch": "main",
+        "metadata_file": "metadata.json"
+      },
+      "metadata": {
+        "filename": "box.png",
+        "extension": "png",
+        "mime_type": "image/png",
+        "category": "image",
+        "size_bytes": 17095,
+        "size_human": "16.7 KB",
+        "uploaded_at": "2026-05-13T19:15:07.502016+00:00",
+        "width": 512,
+        "height": 512,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "uploaded_at": "2026-05-13T19:15:07.502016+00:00",
+      "cdn_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5792/box.png",
+      "rawUrl": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5792/box.png",
+      "raw_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5792/box.png",
+      "download_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5792/box.png",
+      "inline_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5792/box.png",
+      "metadata_url": "http://127.0.0.1:8000/api/v1/files/5792/metadata",
+      "preview_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5792/box.png",
+      "api_download_url": "http://127.0.0.1:8000/api/v1/files/5792/download",
+      "api_inline_url": "http://127.0.0.1:8000/api/v1/files/5792/download?disposition=inline",
+      "api_attachment_url": "http://127.0.0.1:8000/api/v1/files/5792/download?disposition=attachment",
+      "api_preview_url": "http://127.0.0.1:8000/api/v1/files/5792/preview",
+      "cdn_path": "/gh/Altech001/maxxi@main/telegram/images/5792/box.png"
     }
   ]
 }
