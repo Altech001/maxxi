@@ -35,6 +35,54 @@
       "metadata_url": "http://127.0.0.1:8000/api/v1/files/5789/metadata",
       "preview_url": "http://127.0.0.1:8000/api/v1/files/5789/preview",
       "cdn_path": "/api/v1/cdn/5789/box.png"
+    },
+    {
+      "success": true,
+      "id": "5790",
+      "filename": "7l58_chat-notification.svg",
+      "original_filename": "chat-notification.svg",
+      "file_path": "image/7l58_chat-notification.svg",
+      "message_id": 5790,
+      "folder_id": null,
+      "size_bytes": 893,
+      "mime_type": "image/svg+xml",
+      "category": "image",
+      "extension": "svg",
+      "telegram": {
+        "message_id": 5790,
+        "folder_id": null,
+        "storage": "telegram"
+      },
+      "github": {
+        "storage": "github",
+        "repo": "Altech001/maxxi",
+        "branch": "main",
+        "file_path": "image/7l58_chat-notification.svg",
+        "api_url": "https://api.github.com/repos/Altech001/maxxi/contents/image/7l58_chat-notification.svg",
+        "already_exists": false
+      },
+      "metadata": {
+        "filename": "7l58_chat-notification.svg",
+        "extension": "svg",
+        "mime_type": "image/svg+xml",
+        "category": "image",
+        "size_bytes": 893,
+        "size_human": "893.0 B",
+        "uploaded_at": "2026-05-13T18:40:53.605501+00:00"
+      },
+      "uploaded_at": "2026-05-13T18:40:53.605501+00:00",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Altech001/maxxi@main/image/7l58_chat-notification.svg",
+      "rawUrl": "https://cdn.jsdelivr.net/gh/Altech001/maxxi@main/image/7l58_chat-notification.svg",
+      "raw_url": "https://cdn.jsdelivr.net/gh/Altech001/maxxi@main/image/7l58_chat-notification.svg",
+      "download_url": "https://cdn.jsdelivr.net/gh/Altech001/maxxi@main/image/7l58_chat-notification.svg",
+      "inline_url": "https://cdn.jsdelivr.net/gh/Altech001/maxxi@main/image/7l58_chat-notification.svg",
+      "metadata_url": "http://127.0.0.1:8000/api/v1/files/5790/metadata",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Altech001/maxxi@main/image/7l58_chat-notification.svg",
+      "api_download_url": "http://127.0.0.1:8000/api/v1/files/5790/download",
+      "api_inline_url": "http://127.0.0.1:8000/api/v1/files/5790/download?disposition=inline",
+      "api_attachment_url": "http://127.0.0.1:8000/api/v1/files/5790/download?disposition=attachment",
+      "api_preview_url": "http://127.0.0.1:8000/api/v1/files/5790/preview",
+      "cdn_path": "/api/v1/cdn/5790/7l58_chat-notification.svg"
     }
   ]
 }
