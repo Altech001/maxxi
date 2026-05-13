@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "id": "5793",
+  "filename": "degree-credential.svg",
+  "original_filename": "degree-credential.svg",
+  "file_path": "telegram/images/5793/degree-credential.svg",
+  "message_id": 5793,
+  "folder_id": null,
+  "size_bytes": 920,
+  "mime_type": "image/svg+xml",
+  "category": "image",
+  "cdn_folder": "images",
+  "extension": "svg",
+  "telegram": {
+    "message_id": 5793,
+    "folder_id": null,
+    "storage": "telegram",
+    "file_path": "telegram/images/5793/degree-credential.svg",
+    "filename": "degree-credential.svg"
+  },
+  "github": {
+    "storage": "metadata",
+    "repo": "Altech001/maxxi",
+    "branch": "main",
+    "metadata_file": "metadata/images/5793.json"
+  },
+  "metadata": {
+    "filename": "degree-credential.svg",
+    "extension": "svg",
+    "mime_type": "image/svg+xml",
+    "category": "image",
+    "size_bytes": 920,
+    "size_human": "920.0 B",
+    "uploaded_at": "2026-05-13T19:53:11.650839+00:00"
+  },
+  "uploaded_at": "2026-05-13T19:53:11.650839+00:00",
+  "cdn_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5793/degree-credential.svg",
+  "rawUrl": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5793/degree-credential.svg",
+  "raw_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5793/degree-credential.svg",
+  "download_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5793/degree-credential.svg",
+  "inline_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5793/degree-credential.svg",
+  "metadata_url": "http://127.0.0.1:8000/api/v1/files/5793/metadata",
+  "preview_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/images/5793/degree-credential.svg",
+  "api_download_url": "http://127.0.0.1:8000/api/v1/files/5793/download",
+  "api_inline_url": "http://127.0.0.1:8000/api/v1/files/5793/download?disposition=inline",
+  "api_attachment_url": "http://127.0.0.1:8000/api/v1/files/5793/download?disposition=attachment",
+  "api_preview_url": "http://127.0.0.1:8000/api/v1/files/5793/preview",
+  "cdn_path": "/gh/Altech001/maxxi@main/telegram/images/5793/degree-credential.svg"
+}
