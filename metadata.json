@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "id": "5789",
+      "filename": "box.png",
+      "message_id": 5789,
+      "folder_id": null,
+      "size_bytes": 17095,
+      "mime_type": "image/png",
+      "category": "image",
+      "extension": "png",
+      "telegram": {
+        "message_id": 5789,
+        "folder_id": null,
+        "storage": "telegram"
+      },
+      "metadata": {
+        "filename": "box.png",
+        "extension": "png",
+        "mime_type": "image/png",
+        "category": "image",
+        "size_bytes": 17095,
+        "size_human": "16.7 KB",
+        "uploaded_at": "2026-05-13T18:30:10.543798+00:00",
+        "width": 512,
+        "height": 512,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "uploaded_at": "2026-05-13T18:30:10.543798+00:00",
+      "cdn_url": "http://127.0.0.1:8000/api/v1/cdn/5789/box.png",
+      "raw_url": "http://127.0.0.1:8000/api/v1/files/5789/download",
+      "download_url": "http://127.0.0.1:8000/api/v1/files/5789/download?disposition=attachment",
+      "inline_url": "http://127.0.0.1:8000/api/v1/files/5789/download?disposition=inline",
+      "metadata_url": "http://127.0.0.1:8000/api/v1/files/5789/metadata",
+      "preview_url": "http://127.0.0.1:8000/api/v1/files/5789/preview",
+      "cdn_path": "/api/v1/cdn/5789/box.png"
+    }
+  ]
+}
