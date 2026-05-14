@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "id": "3834863452_3",
+  "filename": "payload.json",
+  "original_filename": "payload.json",
+  "file_path": "telegram/code/3/payload.json",
+  "message_id": 3,
+  "folder_id": 3834863452,
+  "size_bytes": 240,
+  "mime_type": "application/json",
+  "category": "docs",
+  "cdn_folder": "code",
+  "extension": "json",
+  "telegram": {
+    "message_id": 3,
+    "folder_id": 3834863452,
+    "storage": "telegram",
+    "folder": "code",
+    "file_path": "telegram/code/3/payload.json",
+    "filename": "payload.json"
+  },
+  "github": {
+    "storage": "metadata",
+    "repo": "Altech001/maxxi",
+    "branch": "main",
+    "metadata_file": "metadata/code/3834863452_3.json"
+  },
+  "metadata": {
+    "filename": "payload.json",
+    "extension": "json",
+    "mime_type": "application/json",
+    "category": "docs",
+    "size_bytes": 240,
+    "size_human": "240.0 B",
+    "uploaded_at": "2026-05-14T01:14:07.512176+00:00"
+  },
+  "uploaded_at": "2026-05-14T01:14:07.512176+00:00",
+  "cdn_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/code/3834863452_3/payload.json",
+  "rawUrl": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/code/3834863452_3/payload.json",
+  "raw_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/code/3834863452_3/payload.json",
+  "download_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/code/3834863452_3/payload.json",
+  "inline_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/code/3834863452_3/payload.json",
+  "metadata_url": "https://mxcdn.vercel.app/api/v1/files/3834863452_3/metadata",
+  "preview_url": "https://mxcdn.vercel.app/gh/Altech001/maxxi@main/telegram/code/3834863452_3/payload.json",
+  "api_download_url": "https://mxcdn.vercel.app/api/v1/files/3834863452_3/download",
+  "api_inline_url": "https://mxcdn.vercel.app/api/v1/files/3834863452_3/download?disposition=inline",
+  "api_attachment_url": "https://mxcdn.vercel.app/api/v1/files/3834863452_3/download?disposition=attachment",
+  "api_preview_url": "https://mxcdn.vercel.app/api/v1/files/3834863452_3/preview",
+  "cdn_path": "/gh/Altech001/maxxi@main/telegram/code/3834863452_3/payload.json"
+}
