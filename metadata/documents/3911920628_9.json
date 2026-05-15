@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "id": "3911920628_9",
+  "filename": "KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+  "original_filename": "KIVIIRI Syrus_VU-PDE-2507-1068-EVE .docx",
+  "file_path": "telegram/documents/9/KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+  "message_id": 9,
+  "folder_id": 3911920628,
+  "size_bytes": 30931,
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "category": "docs",
+  "cdn_folder": "documents",
+  "extension": "docx",
+  "telegram": {
+    "message_id": 9,
+    "folder_id": 3911920628,
+    "storage": "telegram",
+    "folder": "documents",
+    "file_path": "telegram/documents/9/KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+    "filename": "KIVIIRI Syrus_VU-PDE-2507-1068-EVE .docx"
+  },
+  "github": {
+    "storage": "metadata",
+    "repo": "Altech001/maxxi",
+    "branch": "main",
+    "metadata_file": "metadata/documents/3911920628_9.json"
+  },
+  "metadata": {
+    "filename": "KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+    "extension": "docx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "category": "docs",
+    "size_bytes": 30931,
+    "size_human": "30.2 KB",
+    "uploaded_at": "2026-05-15T17:51:26.407182+00:00"
+  },
+  "storage_backend": "telegram",
+  "owner_user_id": "e053af49-3fd8-4402-9024-dcb88904c776",
+  "owner_email": "albertabaasa07@gmail.com",
+  "uploaded_at": "2026-05-15T17:51:26.407182+00:00",
+  "cdn_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_9/KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+  "rawUrl": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_9/KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+  "raw_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_9/KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+  "download_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_9/KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+  "inline_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_9/KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+  "metadata_url": "http://maxxi.fly.dev/api/v1/files/3911920628_9/metadata",
+  "preview_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_9/KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx",
+  "api_download_url": "http://maxxi.fly.dev/api/v1/files/3911920628_9/download",
+  "api_inline_url": "http://maxxi.fly.dev/api/v1/files/3911920628_9/download?disposition=inline",
+  "api_attachment_url": "http://maxxi.fly.dev/api/v1/files/3911920628_9/download?disposition=attachment",
+  "api_preview_url": "http://maxxi.fly.dev/api/v1/files/3911920628_9/preview",
+  "cdn_path": "/gh/Altech001/maxxi@main/telegram/documents/3911920628_9/KIVIIRI-Syrus_VU-PDE-2507-1068-EVE-.docx"
+}
