@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "id": "3911920628_10",
+  "filename": "Question-Paper.docx",
+  "original_filename": "Question Paper.docx",
+  "file_path": "telegram/documents/10/Question-Paper.docx",
+  "message_id": 10,
+  "folder_id": 3911920628,
+  "size_bytes": 14504,
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "category": "docs",
+  "cdn_folder": "documents",
+  "extension": "docx",
+  "telegram": {
+    "message_id": 10,
+    "folder_id": 3911920628,
+    "storage": "telegram",
+    "folder": "documents",
+    "file_path": "telegram/documents/10/Question-Paper.docx",
+    "filename": "Question Paper.docx"
+  },
+  "github": {
+    "storage": "metadata",
+    "repo": "Altech001/maxxi",
+    "branch": "main",
+    "metadata_file": "metadata/documents/3911920628_10.json"
+  },
+  "metadata": {
+    "filename": "Question-Paper.docx",
+    "extension": "docx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "category": "docs",
+    "size_bytes": 14504,
+    "size_human": "14.2 KB",
+    "uploaded_at": "2026-05-15T18:02:20.912184+00:00"
+  },
+  "storage_backend": "telegram",
+  "owner_user_id": "877a61f1-61e5-4d22-b413-d740285e7e46",
+  "owner_email": "albertabaasa07@gmail.com",
+  "uploaded_at": "2026-05-15T18:02:20.912184+00:00",
+  "cdn_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_10/Question-Paper.docx",
+  "rawUrl": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_10/Question-Paper.docx",
+  "raw_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_10/Question-Paper.docx",
+  "download_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_10/Question-Paper.docx",
+  "inline_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_10/Question-Paper.docx",
+  "metadata_url": "http://maxxi.fly.dev/api/v1/files/3911920628_10/metadata",
+  "preview_url": "http://maxxi.fly.dev/gh/Altech001/maxxi@main/telegram/documents/3911920628_10/Question-Paper.docx",
+  "api_download_url": "http://maxxi.fly.dev/api/v1/files/3911920628_10/download",
+  "api_inline_url": "http://maxxi.fly.dev/api/v1/files/3911920628_10/download?disposition=inline",
+  "api_attachment_url": "http://maxxi.fly.dev/api/v1/files/3911920628_10/download?disposition=attachment",
+  "api_preview_url": "http://maxxi.fly.dev/api/v1/files/3911920628_10/preview",
+  "cdn_path": "/gh/Altech001/maxxi@main/telegram/documents/3911920628_10/Question-Paper.docx"
+}
