@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "id": "3946589724_72",
+  "filename": "2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+  "original_filename": "2.MAN ON FIRE EMMY.2026.part005.mkv",
+  "file_path": "telegram/videos/72/2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+  "message_id": 72,
+  "folder_id": 3946589724,
+  "size_bytes": 4194304,
+  "mime_type": "video/x-matroska",
+  "category": "video",
+  "cdn_folder": "videos",
+  "extension": "mkv",
+  "telegram": {
+    "message_id": 72,
+    "folder_id": 3946589724,
+    "storage": "telegram",
+    "folder": "videos",
+    "file_path": "telegram/videos/72/2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+    "filename": "2.MAN ON FIRE EMMY.2026.part005.mkv"
+  },
+  "github": {
+    "storage": "metadata",
+    "repo": "Altech001/maxxi",
+    "branch": "main",
+    "metadata_file": "metadata/videos/3946589724_72.json"
+  },
+  "metadata": {
+    "filename": "2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+    "extension": "mkv",
+    "mime_type": "video/x-matroska",
+    "category": "video",
+    "size_bytes": 4194304,
+    "size_human": "4.0 MB",
+    "uploaded_at": "2026-05-16T00:46:24.965408+00:00"
+  },
+  "storage_backend": "telegram",
+  "owner_user_id": "eb254cdf-6fff-43b3-b470-c9340e649f2d",
+  "owner_email": "albertabaasa07@gmail.com",
+  "uploaded_at": "2026-05-16T00:46:24.965408+00:00",
+  "cdn_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/videos/3946589724_72/2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+  "rawUrl": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/videos/3946589724_72/2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+  "raw_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/videos/3946589724_72/2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+  "download_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/videos/3946589724_72/2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+  "inline_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/videos/3946589724_72/2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+  "metadata_url": "http://127.0.0.1:8000/api/v1/files/3946589724_72/metadata",
+  "preview_url": "http://127.0.0.1:8000/gh/Altech001/maxxi@main/telegram/videos/3946589724_72/2.MAN-ON-FIRE-EMMY.2026.part005.mkv",
+  "api_download_url": "http://127.0.0.1:8000/api/v1/files/3946589724_72/download",
+  "api_inline_url": "http://127.0.0.1:8000/api/v1/files/3946589724_72/download?disposition=inline",
+  "api_attachment_url": "http://127.0.0.1:8000/api/v1/files/3946589724_72/download?disposition=attachment",
+  "api_preview_url": "http://127.0.0.1:8000/api/v1/files/3946589724_72/preview",
+  "cdn_path": "/gh/Altech001/maxxi@main/telegram/videos/3946589724_72/2.MAN-ON-FIRE-EMMY.2026.part005.mkv"
+}
